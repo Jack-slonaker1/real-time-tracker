@@ -9,7 +9,9 @@ run the bus.html in your browser
 enter the route you would like to track
 start the app
 
-
+Future improvements
+Fix google api issue to remove watermark
+update available routes to include all mbta buses
 
 
 
